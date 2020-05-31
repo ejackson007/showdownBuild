@@ -1,0 +1,1902 @@
+{
+    "Clefable": {
+        "rank": 1,
+        "usage": 56.53422
+    },
+    "Corviknight": {
+        "rank": 2,
+        "usage": 31.2248
+    },
+    "Toxapex": {
+        "rank": 3,
+        "usage": 28.25718
+    },
+    "Hippowdon": {
+        "rank": 4,
+        "usage": 25.68515
+    },
+    "Ferrothorn": {
+        "rank": 5,
+        "usage": 25.1768
+    },
+    "Dragapult": {
+        "rank": 6,
+        "usage": 25.15101
+    },
+    "Zeraora": {
+        "rank": 7,
+        "usage": 24.48428
+    },
+    "Excadrill": {
+        "rank": 8,
+        "usage": 23.88469
+    },
+    "Seismitoad": {
+        "rank": 9,
+        "usage": 22.56898
+    },
+    "Rotom-Heat": {
+        "rank": 10,
+        "usage": 21.2842
+    },
+    "Hydreigon": {
+        "rank": 11,
+        "usage": 20.92392
+    },
+    "Aegislash": {
+        "rank": 12,
+        "usage": 17.86139
+    },
+    "Melmetal": {
+        "rank": 13,
+        "usage": 16.2788
+    },
+    "Kyurem": {
+        "rank": 14,
+        "usage": 15.80296
+    },
+    "Dracovish": {
+        "rank": 15,
+        "usage": 15.58086
+    },
+    "Bisharp": {
+        "rank": 16,
+        "usage": 14.3081
+    },
+    "Mandibuzz": {
+        "rank": 17,
+        "usage": 13.47561
+    },
+    "Kommo-o": {
+        "rank": 18,
+        "usage": 13.31267
+    },
+    "Tyranitar": {
+        "rank": 19,
+        "usage": 9.02628
+    },
+    "Mew": {
+        "rank": 20,
+        "usage": 8.73222
+    },
+    "Conkeldurr": {
+        "rank": 21,
+        "usage": 8.3671
+    },
+    "Togekiss": {
+        "rank": 22,
+        "usage": 7.77488
+    },
+    "Terrakion": {
+        "rank": 23,
+        "usage": 7.38838
+    },
+    "Cinderace": {
+        "rank": 24,
+        "usage": 6.76959
+    },
+    "Cloyster": {
+        "rank": 25,
+        "usage": 6.75745
+    },
+    "Jirachi": {
+        "rank": 26,
+        "usage": 6.32025
+    },
+    "Gengar": {
+        "rank": 27,
+        "usage": 5.73664
+    },
+    "Pelipper": {
+        "rank": 28,
+        "usage": 5.51101
+    },
+    "Hawlucha": {
+        "rank": 29,
+        "usage": 4.9596
+    },
+    "Darmanitan": {
+        "rank": 30,
+        "usage": 4.88988
+    },
+    "Hatterene": {
+        "rank": 31,
+        "usage": 4.78415
+    },
+    "Grimmsnarl": {
+        "rank": 32,
+        "usage": 4.76801
+    },
+    "Primarina": {
+        "rank": 33,
+        "usage": 4.61244
+    },
+    "Mimikyu": {
+        "rank": 34,
+        "usage": 4.57191
+    },
+    "Keldeo": {
+        "rank": 35,
+        "usage": 4.54024
+    },
+    "Necrozma": {
+        "rank": 36,
+        "usage": 3.69048
+    },
+    "Snorlax": {
+        "rank": 37,
+        "usage": 3.66445
+    },
+    "Ditto": {
+        "rank": 38,
+        "usage": 3.48548
+    },
+    "Reuniclus": {
+        "rank": 39,
+        "usage": 3.45808
+    },
+    "Gyarados": {
+        "rank": 40,
+        "usage": 3.42311
+    },
+    "Ninetales-Alola": {
+        "rank": 41,
+        "usage": 2.94035
+    },
+    "Salazzle": {
+        "rank": 42,
+        "usage": 2.34116
+    },
+    "Mamoswine": {
+        "rank": 43,
+        "usage": 2.32177
+    },
+    "Toxtricity": {
+        "rank": 44,
+        "usage": 2.11664
+    },
+    "Diggersby": {
+        "rank": 45,
+        "usage": 2.10618
+    },
+    "Incineroar": {
+        "rank": 46,
+        "usage": 2.10371
+    },
+    "Quagsire": {
+        "rank": 47,
+        "usage": 2.07714
+    },
+    "Crawdaunt": {
+        "rank": 48,
+        "usage": 1.95523
+    },
+    "Mantine": {
+        "rank": 49,
+        "usage": 1.92495
+    },
+    "Venusaur": {
+        "rank": 50,
+        "usage": 1.85513
+    },
+    "Obstagoon": {
+        "rank": 51,
+        "usage": 1.82258
+    },
+    "Torkoal": {
+        "rank": 52,
+        "usage": 1.66798
+    },
+    "Bewear": {
+        "rank": 53,
+        "usage": 1.65862
+    },
+    "Gastrodon": {
+        "rank": 54,
+        "usage": 1.55418
+    },
+    "Chandelure": {
+        "rank": 55,
+        "usage": 1.53229
+    },
+    "Vaporeon": {
+        "rank": 56,
+        "usage": 1.46355
+    },
+    "Shuckle": {
+        "rank": 57,
+        "usage": 1.38752
+    },
+    "Celebi": {
+        "rank": 58,
+        "usage": 1.27989
+    },
+    "Sylveon": {
+        "rank": 59,
+        "usage": 1.24076
+    },
+    "Rotom-Wash": {
+        "rank": 60,
+        "usage": 1.16569
+    },
+    "Ribombee": {
+        "rank": 61,
+        "usage": 1.13485
+    },
+    "Charizard": {
+        "rank": 62,
+        "usage": 1.10724
+    },
+    "Gardevoir": {
+        "rank": 63,
+        "usage": 1.074
+    },
+    "Rhyperior": {
+        "rank": 64,
+        "usage": 0.99389
+    },
+    "Arcanine": {
+        "rank": 65,
+        "usage": 0.92148
+    },
+    "Sirfetch'd": {
+        "rank": 66,
+        "usage": 0.89271
+    },
+    "Heliolisk": {
+        "rank": 67,
+        "usage": 0.87003
+    },
+    "Clefairy": {
+        "rank": 68,
+        "usage": 0.83226
+    },
+    "Froslass": {
+        "rank": 69,
+        "usage": 0.82104
+    },
+    "Jellicent": {
+        "rank": 70,
+        "usage": 0.77838
+    },
+    "Weavile": {
+        "rank": 71,
+        "usage": 0.71192
+    },
+    "Whimsicott": {
+        "rank": 72,
+        "usage": 0.66863
+    },
+    "Rotom-Mow": {
+        "rank": 73,
+        "usage": 0.66239
+    },
+    "Sandaconda": {
+        "rank": 74,
+        "usage": 0.56942
+    },
+    "Weezing-Galar": {
+        "rank": 75,
+        "usage": 0.55919
+    },
+    "Ninetales": {
+        "rank": 76,
+        "usage": 0.53953
+    },
+    "Vikavolt": {
+        "rank": 77,
+        "usage": 0.53526
+    },
+    "Espeon": {
+        "rank": 78,
+        "usage": 0.52719
+    },
+    "Umbreon": {
+        "rank": 79,
+        "usage": 0.49132
+    },
+    "Barraskewda": {
+        "rank": 80,
+        "usage": 0.49006
+    },
+    "Dracozolt": {
+        "rank": 81,
+        "usage": 0.47905
+    },
+    "Flygon": {
+        "rank": 82,
+        "usage": 0.42529
+    },
+    "Araquanid": {
+        "rank": 83,
+        "usage": 0.42085
+    },
+    "Xatu": {
+        "rank": 84,
+        "usage": 0.37584
+    },
+    "Roserade": {
+        "rank": 85,
+        "usage": 0.37039
+    },
+    "Golisopod": {
+        "rank": 86,
+        "usage": 0.35622
+    },
+    "Indeedee": {
+        "rank": 87,
+        "usage": 0.35388
+    },
+    "Durant": {
+        "rank": 88,
+        "usage": 0.34993
+    },
+    "Gigalith": {
+        "rank": 89,
+        "usage": 0.33666
+    },
+    "Sableye": {
+        "rank": 90,
+        "usage": 0.32167
+    },
+    "Cobalion": {
+        "rank": 91,
+        "usage": 0.31858
+    },
+    "Galvantula": {
+        "rank": 92,
+        "usage": 0.28186
+    },
+    "Runerigus": {
+        "rank": 93,
+        "usage": 0.27206
+    },
+    "Sigilyph": {
+        "rank": 94,
+        "usage": 0.27193
+    },
+    "Steelix": {
+        "rank": 95,
+        "usage": 0.26853
+    },
+    "Corsola-Galar": {
+        "rank": 96,
+        "usage": 0.25533
+    },
+    "Slurpuff": {
+        "rank": 97,
+        "usage": 0.2541
+    },
+    "Lucario": {
+        "rank": 98,
+        "usage": 0.24285
+    },
+    "Haxorus": {
+        "rank": 99,
+        "usage": 0.23869
+    },
+    "Blastoise": {
+        "rank": 100,
+        "usage": 0.23498
+    },
+    "Polteageist": {
+        "rank": 101,
+        "usage": 0.22208
+    },
+    "Bronzong": {
+        "rank": 102,
+        "usage": 0.20236
+    },
+    "Milotic": {
+        "rank": 103,
+        "usage": 0.19777
+    },
+    "Decidueye": {
+        "rank": 104,
+        "usage": 0.18341
+    },
+    "Goodra": {
+        "rank": 105,
+        "usage": 0.18145
+    },
+    "Toxicroak": {
+        "rank": 106,
+        "usage": 0.16662
+    },
+    "Barbaracle": {
+        "rank": 107,
+        "usage": 0.16297
+    },
+    "Shedinja": {
+        "rank": 108,
+        "usage": 0.15258
+    },
+    "Stunfisk": {
+        "rank": 109,
+        "usage": 0.14502
+    },
+    "Accelgor": {
+        "rank": 110,
+        "usage": 0.14065
+    },
+    "Appletun": {
+        "rank": 111,
+        "usage": 0.13683
+    },
+    "Noivern": {
+        "rank": 112,
+        "usage": 0.13636
+    },
+    "Copperajah": {
+        "rank": 113,
+        "usage": 0.12088
+    },
+    "Arctozolt": {
+        "rank": 114,
+        "usage": 0.11871
+    },
+    "Rapidash": {
+        "rank": 115,
+        "usage": 0.11718
+    },
+    "Frosmoth": {
+        "rank": 116,
+        "usage": 0.11201
+    },
+    "Ludicolo": {
+        "rank": 117,
+        "usage": 0.10942
+    },
+    "Passimian": {
+        "rank": 118,
+        "usage": 0.10612
+    },
+    "Centiskorch": {
+        "rank": 119,
+        "usage": 0.103
+    },
+    "Pangoro": {
+        "rank": 120,
+        "usage": 0.10273
+    },
+    "Gallade": {
+        "rank": 121,
+        "usage": 0.09919
+    },
+    "Raichu-Alola": {
+        "rank": 122,
+        "usage": 0.09683
+    },
+    "Duraludon": {
+        "rank": 123,
+        "usage": 0.09644
+    },
+    "Pincurchin": {
+        "rank": 124,
+        "usage": 0.09462
+    },
+    "Lapras": {
+        "rank": 125,
+        "usage": 0.08924
+    },
+    "Inteleon": {
+        "rank": 126,
+        "usage": 0.08819
+    },
+    "Braviary": {
+        "rank": 127,
+        "usage": 0.0868
+    },
+    "Machamp": {
+        "rank": 128,
+        "usage": 0.08175
+    },
+    "Claydol": {
+        "rank": 129,
+        "usage": 0.0813
+    },
+    "Rillaboom": {
+        "rank": 130,
+        "usage": 0.07853
+    },
+    "Orbeetle": {
+        "rank": 131,
+        "usage": 0.07768
+    },
+    "Shiftry": {
+        "rank": 132,
+        "usage": 0.0766
+    },
+    "Gourgeist-Super": {
+        "rank": 133,
+        "usage": 0.07405
+    },
+    "Vileplume": {
+        "rank": 134,
+        "usage": 0.07105
+    },
+    "Morpeko": {
+        "rank": 135,
+        "usage": 0.0708
+    },
+    "Tsareena": {
+        "rank": 136,
+        "usage": 0.06815
+    },
+    "Shiinotic": {
+        "rank": 137,
+        "usage": 0.06736
+    },
+    "Indeedee-F": {
+        "rank": 138,
+        "usage": 0.06694
+    },
+    "Silvally-Ghost": {
+        "rank": 139,
+        "usage": 0.06653
+    },
+    "Drapion": {
+        "rank": 140,
+        "usage": 0.06629
+    },
+    "Rotom-Fan": {
+        "rank": 141,
+        "usage": 0.06586
+    },
+    "Pyukumuku": {
+        "rank": 142,
+        "usage": 0.06495
+    },
+    "Dugtrio": {
+        "rank": 143,
+        "usage": 0.06327
+    },
+    "Pikachu": {
+        "rank": 144,
+        "usage": 0.05827
+    },
+    "Vanilluxe": {
+        "rank": 145,
+        "usage": 0.05342
+    },
+    "Coalossal": {
+        "rank": 146,
+        "usage": 0.05078
+    },
+    "Lanturn": {
+        "rank": 147,
+        "usage": 0.05058
+    },
+    "Leafeon": {
+        "rank": 148,
+        "usage": 0.04647
+    },
+    "Avalugg": {
+        "rank": 149,
+        "usage": 0.04452
+    },
+    "Virizion": {
+        "rank": 150,
+        "usage": 0.04392
+    },
+    "Flapple": {
+        "rank": 151,
+        "usage": 0.04329
+    },
+    "Cinccino": {
+        "rank": 152,
+        "usage": 0.0428
+    },
+    "Dhelmise": {
+        "rank": 153,
+        "usage": 0.04064
+    },
+    "Silvally-Steel": {
+        "rank": 154,
+        "usage": 0.04011
+    },
+    "Drednaw": {
+        "rank": 155,
+        "usage": 0.03984
+    },
+    "Hitmonlee": {
+        "rank": 156,
+        "usage": 0.03944
+    },
+    "Mr. Rime": {
+        "rank": 157,
+        "usage": 0.03809
+    },
+    "Kingler": {
+        "rank": 158,
+        "usage": 0.03772
+    },
+    "Jolteon": {
+        "rank": 159,
+        "usage": 0.03593
+    },
+    "Drifblim": {
+        "rank": 160,
+        "usage": 0.03579
+    },
+    "Mudsdale": {
+        "rank": 161,
+        "usage": 0.03547
+    },
+    "Rapidash-Galar": {
+        "rank": 162,
+        "usage": 0.03525
+    },
+    "Meltan": {
+        "rank": 163,
+        "usage": 0.03187
+    },
+    "Maractus": {
+        "rank": 164,
+        "usage": 0.03151
+    },
+    "Cursola": {
+        "rank": 165,
+        "usage": 0.0309
+    },
+    "Cofagrigus": {
+        "rank": 166,
+        "usage": 0.02759
+    },
+    "Silvally-Fairy": {
+        "rank": 167,
+        "usage": 0.02747
+    },
+    "Golurk": {
+        "rank": 168,
+        "usage": 0.02733
+    },
+    "Dubwool": {
+        "rank": 169,
+        "usage": 0.02677
+    },
+    "Drampa": {
+        "rank": 170,
+        "usage": 0.02631
+    },
+    "Grapploct": {
+        "rank": 171,
+        "usage": 0.02532
+    },
+    "Dusclops": {
+        "rank": 172,
+        "usage": 0.02508
+    },
+    "Scrafty": {
+        "rank": 173,
+        "usage": 0.02469
+    },
+    "Hitmontop": {
+        "rank": 174,
+        "usage": 0.0241
+    },
+    "Sawk": {
+        "rank": 175,
+        "usage": 0.02317
+    },
+    "Mawile": {
+        "rank": 176,
+        "usage": 0.02304
+    },
+    "Octillery": {
+        "rank": 177,
+        "usage": 0.02298
+    },
+    "Eldegoss": {
+        "rank": 178,
+        "usage": 0.02158
+    },
+    "Rhydon": {
+        "rank": 179,
+        "usage": 0.02048
+    },
+    "Doublade": {
+        "rank": 180,
+        "usage": 0.0187
+    },
+    "Cramorant": {
+        "rank": 181,
+        "usage": 0.01859
+    },
+    "Abomasnow": {
+        "rank": 182,
+        "usage": 0.01822
+    },
+    "Beartic": {
+        "rank": 183,
+        "usage": 0.01797
+    },
+    "Malamar": {
+        "rank": 184,
+        "usage": 0.01733
+    },
+    "Aromatisse": {
+        "rank": 185,
+        "usage": 0.01716
+    },
+    "Butterfree": {
+        "rank": 186,
+        "usage": 0.01594
+    },
+    "Boltund": {
+        "rank": 187,
+        "usage": 0.01592
+    },
+    "Arctovish": {
+        "rank": 188,
+        "usage": 0.01585
+    },
+    "Stonjourner": {
+        "rank": 189,
+        "usage": 0.01572
+    },
+    "Crustle": {
+        "rank": 190,
+        "usage": 0.01548
+    },
+    "Turtonator": {
+        "rank": 191,
+        "usage": 0.01504
+    },
+    "Swoobat": {
+        "rank": 192,
+        "usage": 0.01483
+    },
+    "Eiscue": {
+        "rank": 193,
+        "usage": 0.01471
+    },
+    "Meowstic": {
+        "rank": 194,
+        "usage": 0.01441
+    },
+    "Silvally": {
+        "rank": 195,
+        "usage": 0.01417
+    },
+    "Piloswine": {
+        "rank": 196,
+        "usage": 0.01405
+    },
+    "Gourgeist-Small": {
+        "rank": 197,
+        "usage": 0.01306
+    },
+    "Flareon": {
+        "rank": 198,
+        "usage": 0.01296
+    },
+    "Alcremie": {
+        "rank": 199,
+        "usage": 0.01296
+    },
+    "Noctowl": {
+        "rank": 200,
+        "usage": 0.01216
+    },
+    "Qwilfish": {
+        "rank": 201,
+        "usage": 0.01209
+    },
+    "Persian-Alola": {
+        "rank": 202,
+        "usage": 0.01185
+    },
+    "Greedent": {
+        "rank": 203,
+        "usage": 0.01179
+    },
+    "Falinks": {
+        "rank": 204,
+        "usage": 0.01173
+    },
+    "Perrserker": {
+        "rank": 205,
+        "usage": 0.01165
+    },
+    "Escavalier": {
+        "rank": 206,
+        "usage": 0.01124
+    },
+    "Rotom-Frost": {
+        "rank": 207,
+        "usage": 0.01097
+    },
+    "Togedemaru": {
+        "rank": 208,
+        "usage": 0.00989
+    },
+    "Stunfisk-Galar": {
+        "rank": 209,
+        "usage": 0.0098
+    },
+    "Linoone": {
+        "rank": 210,
+        "usage": 0.00935
+    },
+    "Raichu": {
+        "rank": 211,
+        "usage": 0.00914
+    },
+    "Weezing": {
+        "rank": 212,
+        "usage": 0.00902
+    },
+    "Onix": {
+        "rank": 213,
+        "usage": 0.00879
+    },
+    "Dugtrio-Alola": {
+        "rank": 214,
+        "usage": 0.00878
+    },
+    "Wishiwashi": {
+        "rank": 215,
+        "usage": 0.00876
+    },
+    "Bulbasaur": {
+        "rank": 216,
+        "usage": 0.0085
+    },
+    "Riolu": {
+        "rank": 217,
+        "usage": 0.00844
+    },
+    "Thievul": {
+        "rank": 218,
+        "usage": 0.00844
+    },
+    "Diglett": {
+        "rank": 219,
+        "usage": 0.00844
+    },
+    "Ponyta": {
+        "rank": 220,
+        "usage": 0.0084
+    },
+    "Cherubi": {
+        "rank": 221,
+        "usage": 0.0084
+    },
+    "Musharna": {
+        "rank": 222,
+        "usage": 0.00805
+    },
+    "Bellossom": {
+        "rank": 223,
+        "usage": 0.00797
+    },
+    "Dusknoir": {
+        "rank": 224,
+        "usage": 0.00728
+    },
+    "Klinklang": {
+        "rank": 225,
+        "usage": 0.00722
+    },
+    "Munchlax": {
+        "rank": 226,
+        "usage": 0.00649
+    },
+    "Trevenant": {
+        "rank": 227,
+        "usage": 0.00612
+    },
+    "Unfezant": {
+        "rank": 228,
+        "usage": 0.0059
+    },
+    "Silvally-Flying": {
+        "rank": 229,
+        "usage": 0.00573
+    },
+    "Manectric": {
+        "rank": 230,
+        "usage": 0.0055
+    },
+    "Seaking": {
+        "rank": 231,
+        "usage": 0.00541
+    },
+    "Hitmonchan": {
+        "rank": 232,
+        "usage": 0.00524
+    },
+    "Togetic": {
+        "rank": 233,
+        "usage": 0.00519
+    },
+    "Silvally-Dragon": {
+        "rank": 234,
+        "usage": 0.00515
+    },
+    "Silvally-Ground": {
+        "rank": 235,
+        "usage": 0.00506
+    },
+    "Drilbur": {
+        "rank": 236,
+        "usage": 0.00472
+    },
+    "Rotom": {
+        "rank": 237,
+        "usage": 0.00445
+    },
+    "Squirtle": {
+        "rank": 238,
+        "usage": 0.0043
+    },
+    "Corsola": {
+        "rank": 239,
+        "usage": 0.00428
+    },
+    "Mr. Mime-Galar": {
+        "rank": 240,
+        "usage": 0.0042
+    },
+    "Silvally-Fighting": {
+        "rank": 241,
+        "usage": 0.00411
+    },
+    "Basculin": {
+        "rank": 242,
+        "usage": 0.00403
+    },
+    "Wailord": {
+        "rank": 243,
+        "usage": 0.00402
+    },
+    "Liepard": {
+        "rank": 244,
+        "usage": 0.00393
+    },
+    "Glaceon": {
+        "rank": 245,
+        "usage": 0.00373
+    },
+    "Silvally-Fire": {
+        "rank": 246,
+        "usage": 0.0036
+    },
+    "Ninjask": {
+        "rank": 247,
+        "usage": 0.00346
+    },
+    "Throh": {
+        "rank": 248,
+        "usage": 0.00321
+    },
+    "Cottonee": {
+        "rank": 249,
+        "usage": 0.00305
+    },
+    "Morgrem": {
+        "rank": 250,
+        "usage": 0.00294
+    },
+    "Silvally-Grass": {
+        "rank": 251,
+        "usage": 0.00289
+    },
+    "Linoone-Galar": {
+        "rank": 252,
+        "usage": 0.00261
+    },
+    "Morelull": {
+        "rank": 253,
+        "usage": 0.0025
+    },
+    "Hattrem": {
+        "rank": 254,
+        "usage": 0.00247
+    },
+    "Sudowoodo": {
+        "rank": 255,
+        "usage": 0.00242
+    },
+    "Vespiquen": {
+        "rank": 256,
+        "usage": 0.00241
+    },
+    "Persian": {
+        "rank": 257,
+        "usage": 0.00208
+    },
+    "Type: Null": {
+        "rank": 258,
+        "usage": 0.00196
+    },
+    "Skuntank": {
+        "rank": 259,
+        "usage": 0.00194
+    },
+    "Silvally-Psychic": {
+        "rank": 260,
+        "usage": 0.0019
+    },
+    "Swirlix": {
+        "rank": 261,
+        "usage": 0.00175
+    },
+    "Silvally-Poison": {
+        "rank": 262,
+        "usage": 0.00169
+    },
+    "Silvally-Electric": {
+        "rank": 263,
+        "usage": 0.00166
+    },
+    "Palpitoad": {
+        "rank": 264,
+        "usage": 0.00163
+    },
+    "Gurdurr": {
+        "rank": 265,
+        "usage": 0.00153
+    },
+    "Machoke": {
+        "rank": 266,
+        "usage": 0.0015
+    },
+    "Mr. Mime": {
+        "rank": 267,
+        "usage": 0.00144
+    },
+    "Timburr": {
+        "rank": 268,
+        "usage": 0.00142
+    },
+    "Carkol": {
+        "rank": 269,
+        "usage": 0.00142
+    },
+    "Heatmor": {
+        "rank": 270,
+        "usage": 0.00133
+    },
+    "Shelmet": {
+        "rank": 271,
+        "usage": 0.00129
+    },
+    "Whiscash": {
+        "rank": 272,
+        "usage": 0.00126
+    },
+    "Duosion": {
+        "rank": 273,
+        "usage": 0.00124
+    },
+    "Farfetch'd": {
+        "rank": 274,
+        "usage": 0.00122
+    },
+    "Goldeen": {
+        "rank": 275,
+        "usage": 0.00116
+    },
+    "Swinub": {
+        "rank": 276,
+        "usage": 0.00114
+    },
+    "Mudbray": {
+        "rank": 277,
+        "usage": 0.00106
+    },
+    "Jangmo-o": {
+        "rank": 278,
+        "usage": 0.00102
+    },
+    "Delibird": {
+        "rank": 279,
+        "usage": 0.00097
+    },
+    "Garbodor": {
+        "rank": 280,
+        "usage": 0.00095
+    },
+    "Dwebble": {
+        "rank": 281,
+        "usage": 0.00095
+    },
+    "Torracat": {
+        "rank": 282,
+        "usage": 0.00085
+    },
+    "Solrock": {
+        "rank": 283,
+        "usage": 0.00085
+    },
+    "Charjabug": {
+        "rank": 284,
+        "usage": 0.00083
+    },
+    "Haunter": {
+        "rank": 285,
+        "usage": 0.00082
+    },
+    "Cosmoem": {
+        "rank": 286,
+        "usage": 0.00077
+    },
+    "Dottler": {
+        "rank": 287,
+        "usage": 0.00076
+    },
+    "Raboot": {
+        "rank": 288,
+        "usage": 0.00065
+    },
+    "Oranguru": {
+        "rank": 289,
+        "usage": 0.00053
+    },
+    "Lunatone": {
+        "rank": 290,
+        "usage": 0.00052
+    },
+    "Wobbuffet": {
+        "rank": 291,
+        "usage": 0.0005
+    },
+    "Silvally-Dark": {
+        "rank": 292,
+        "usage": 0.00046
+    },
+    "Beheeyem": {
+        "rank": 293,
+        "usage": 0.00046
+    },
+    "Grookey": {
+        "rank": 294,
+        "usage": 0.00043
+    },
+    "Scorbunny": {
+        "rank": 295,
+        "usage": 0.00038
+    },
+    "Ferroseed": {
+        "rank": 296,
+        "usage": 0.00035
+    },
+    "Gloom": {
+        "rank": 297,
+        "usage": 0.00034
+    },
+    "Wartortle": {
+        "rank": 298,
+        "usage": 0.00032
+    },
+    "Gourgeist": {
+        "rank": 299,
+        "usage": 0.00031
+    },
+    "Pupitar": {
+        "rank": 300,
+        "usage": 0.00031
+    },
+    "Gothitelle": {
+        "rank": 301,
+        "usage": 0.00031
+    },
+    "Lampent": {
+        "rank": 302,
+        "usage": 0.00029
+    },
+    "Sneasel": {
+        "rank": 303,
+        "usage": 0.00025
+    },
+    "Solosis": {
+        "rank": 304,
+        "usage": 0.00024
+    },
+    "Silvally-Rock": {
+        "rank": 305,
+        "usage": 0.00023
+    },
+    "Fraxure": {
+        "rank": 306,
+        "usage": 0.00023
+    },
+    "Sliggoo": {
+        "rank": 307,
+        "usage": 0.00021
+    },
+    "Ivysaur": {
+        "rank": 308,
+        "usage": 0.0002
+    },
+    "Silvally-Water": {
+        "rank": 309,
+        "usage": 0.00018
+    },
+    "Cherrim": {
+        "rank": 310,
+        "usage": 0.00017
+    },
+    "Slowpoke-Galar": {
+        "rank": 311,
+        "usage": 0.00017
+    },
+    "Snom": {
+        "rank": 312,
+        "usage": 0.00017
+    },
+    "Zweilous": {
+        "rank": 313,
+        "usage": 0.00017
+    },
+    "Shellos": {
+        "rank": 314,
+        "usage": 0.00016
+    },
+    "Gourgeist-Large": {
+        "rank": 315,
+        "usage": 0.00014
+    },
+    "Charmeleon": {
+        "rank": 316,
+        "usage": 0.00013
+    },
+    "Impidimp": {
+        "rank": 317,
+        "usage": 0.00012
+    },
+    "Drizzile": {
+        "rank": 318,
+        "usage": 0.00011
+    },
+    "Mime Jr.": {
+        "rank": 319,
+        "usage": 0.00011
+    },
+    "Mareanie": {
+        "rank": 320,
+        "usage": 0.00011
+    },
+    "Natu": {
+        "rank": 321,
+        "usage": 0.0001
+    },
+    "Snover": {
+        "rank": 322,
+        "usage": 0.0001
+    },
+    "Rufflet": {
+        "rank": 323,
+        "usage": 0.0001
+    },
+    "Glalie": {
+        "rank": 324,
+        "usage": 0.00009
+    },
+    "Drifloon": {
+        "rank": 325,
+        "usage": 0.00009
+    },
+    "Chewtle": {
+        "rank": 326,
+        "usage": 0.00007
+    },
+    "Magikarp": {
+        "rank": 327,
+        "usage": 0.00007
+    },
+    "Vulpix": {
+        "rank": 328,
+        "usage": 0.00007
+    },
+    "Krabby": {
+        "rank": 329,
+        "usage": 0.00006
+    },
+    "Boldore": {
+        "rank": 330,
+        "usage": 0.00005
+    },
+    "Togepi": {
+        "rank": 331,
+        "usage": 0.00005
+    },
+    "Frillish": {
+        "rank": 332,
+        "usage": 0.00004
+    },
+    "Roselia": {
+        "rank": 333,
+        "usage": 0.00004
+    },
+    "Hakamo-o": {
+        "rank": 334,
+        "usage": 0.00004
+    },
+    "Wooper": {
+        "rank": 335,
+        "usage": 0.00004
+    },
+    "Roggenrola": {
+        "rank": 336,
+        "usage": 0.00003
+    },
+    "Trapinch": {
+        "rank": 337,
+        "usage": 0.00003
+    },
+    "Wooloo": {
+        "rank": 338,
+        "usage": 0.00003
+    },
+    "Pawniard": {
+        "rank": 339,
+        "usage": 0.00003
+    },
+    "Oddish": {
+        "rank": 340,
+        "usage": 0.00002
+    },
+    "Klang": {
+        "rank": 341,
+        "usage": 0.00002
+    },
+    "Zigzagoon": {
+        "rank": 342,
+        "usage": 0.00002
+    },
+    "Bronzor": {
+        "rank": 343,
+        "usage": 0.00002
+    },
+    "Milcery": {
+        "rank": 344,
+        "usage": 0.00002
+    },
+    "Farfetch'd-Galar": {
+        "rank": 345,
+        "usage": 0.00002
+    },
+    "Salandit": {
+        "rank": 346,
+        "usage": 0.00002
+    },
+    "Cubchoo": {
+        "rank": 347,
+        "usage": 0.00002
+    },
+    "Darumaka-Galar": {
+        "rank": 348,
+        "usage": 0.00001
+    },
+    "Hippopotas": {
+        "rank": 349,
+        "usage": 0.00001
+    },
+    "Dartrix": {
+        "rank": 350,
+        "usage": 0.00001
+    },
+    "Kirlia": {
+        "rank": 351,
+        "usage": 0.00001
+    },
+    "Wailmer": {
+        "rank": 352,
+        "usage": 0.00001
+    },
+    "Elgyem": {
+        "rank": 353,
+        "usage": 0.00001
+    },
+    "Yamask-Galar": {
+        "rank": 354,
+        "usage": 0.00001
+    },
+    "Charmander": {
+        "rank": 355,
+        "usage": 0.00001
+    },
+    "Eevee": {
+        "rank": 356,
+        "usage": 0.00001
+    },
+    "Vulpix-Alola": {
+        "rank": 357,
+        "usage": 0.00001
+    },
+    "Trubbish": {
+        "rank": 358,
+        "usage": 0.00001
+    },
+    "Bunnelby": {
+        "rank": 359,
+        "usage": 0.00001
+    },
+    "Gastly": {
+        "rank": 360,
+        "usage": 0.00001
+    },
+    "Drakloak": {
+        "rank": 361,
+        "usage": 0.00001
+    },
+    "Seedot": {
+        "rank": 362,
+        "usage": 0.00001
+    },
+    "Stunky": {
+        "rank": 363,
+        "usage": 0.00001
+    },
+    "Ponyta-Galar": {
+        "rank": 364,
+        "usage": 0.00001
+    },
+    "Sinistea": {
+        "rank": 365,
+        "usage": 0.00001
+    },
+    "Vullaby": {
+        "rank": 366,
+        "usage": 0.00001
+    },
+    "Inkay": {
+        "rank": 367,
+        "usage": 0.00001
+    },
+    "Silvally-Bug": {
+        "rank": 368,
+        "usage": 0.00001
+    },
+    "Snorunt": {
+        "rank": 369,
+        "usage": 0.00001
+    },
+    "Zigzagoon-Galar": {
+        "rank": 370,
+        "usage": 0.00001
+    },
+    "Deino": {
+        "rank": 371,
+        "usage": 0.00001
+    },
+    "Wingull": {
+        "rank": 372,
+        "usage": 0.00001
+    },
+    "Scraggy": {
+        "rank": 373,
+        "usage": 0.00001
+    },
+    "Applin": {
+        "rank": 374,
+        "usage": 0.00001
+    },
+    "Popplio": {
+        "rank": 375,
+        "usage": 0.00001
+    },
+    "Duskull": {
+        "rank": 376,
+        "usage": 0.00001
+    },
+    "Metapod": {
+        "rank": 377,
+        "usage": 0.00001
+    },
+    "Pichu": {
+        "rank": 378,
+        "usage": 0.00001
+    },
+    "Grubbin": {
+        "rank": 379,
+        "usage": 0.00001
+    },
+    "Yamask": {
+        "rank": 380,
+        "usage": 0
+    },
+    "Wimpod": {
+        "rank": 381,
+        "usage": 0
+    },
+    "Gossifleur": {
+        "rank": 382,
+        "usage": 0
+    },
+    "Litwick": {
+        "rank": 383,
+        "usage": 0
+    },
+    "Koffing": {
+        "rank": 384,
+        "usage": 0
+    },
+    "Growlithe": {
+        "rank": 385,
+        "usage": 0
+    },
+    "Skorupi": {
+        "rank": 386,
+        "usage": 0
+    },
+    "Rhyhorn": {
+        "rank": 387,
+        "usage": 0
+    },
+    "Silicobra": {
+        "rank": 388,
+        "usage": 0
+    },
+    "Wynaut": {
+        "rank": 389,
+        "usage": 0
+    },
+    "Axew": {
+        "rank": 390,
+        "usage": 0
+    },
+    "Blipbug": {
+        "rank": 391,
+        "usage": 0
+    },
+    "Nuzleaf": {
+        "rank": 392,
+        "usage": 0
+    },
+    "Pumpkaboo-Super": {
+        "rank": 393,
+        "usage": 0
+    },
+    "Bonsly": {
+        "rank": 394,
+        "usage": 0
+    },
+    "Mantyke": {
+        "rank": 395,
+        "usage": 0
+    },
+    "Cleffa": {
+        "rank": 396,
+        "usage": 0
+    },
+    "Shellder": {
+        "rank": 397,
+        "usage": 0
+    },
+    "Ralts": {
+        "rank": 398,
+        "usage": 0
+    },
+    "Purrloin": {
+        "rank": 399,
+        "usage": 0
+    },
+    "Yamper": {
+        "rank": 400,
+        "usage": 0
+    },
+    "Stufful": {
+        "rank": 401,
+        "usage": 0
+    },
+    "Steenee": {
+        "rank": 402,
+        "usage": 0
+    },
+    "Meowth": {
+        "rank": 403,
+        "usage": 0
+    },
+    "Brionne": {
+        "rank": 404,
+        "usage": 0
+    },
+    "Silvally-Ice": {
+        "rank": 405,
+        "usage": 0
+    },
+    "Corvisquire": {
+        "rank": 406,
+        "usage": 0
+    },
+    "Cufant": {
+        "rank": 407,
+        "usage": 0
+    },
+    "Combee": {
+        "rank": 408,
+        "usage": 0
+    },
+    "Meowth-Galar": {
+        "rank": 409,
+        "usage": 0
+    },
+    "Litten": {
+        "rank": 410,
+        "usage": 0
+    },
+    "Noibat": {
+        "rank": 411,
+        "usage": 0
+    },
+    "Nickit": {
+        "rank": 412,
+        "usage": 0
+    },
+    "Phantump": {
+        "rank": 413,
+        "usage": 0
+    },
+    "Thwackey": {
+        "rank": 414,
+        "usage": 0
+    },
+    "Rowlet": {
+        "rank": 415,
+        "usage": 0
+    },
+    "Joltik": {
+        "rank": 416,
+        "usage": 0
+    },
+    "Bounsweet": {
+        "rank": 417,
+        "usage": 0
+    },
+    "Toxel": {
+        "rank": 418,
+        "usage": 0
+    },
+    "Clobbopus": {
+        "rank": 419,
+        "usage": 0
+    },
+    "Pancham": {
+        "rank": 420,
+        "usage": 0
+    },
+    "Skwovet": {
+        "rank": 421,
+        "usage": 0
+    },
+    "Baltoy": {
+        "rank": 422,
+        "usage": 0
+    },
+    "Pumpkaboo-Small": {
+        "rank": 423,
+        "usage": 0
+    },
+    "Larvitar": {
+        "rank": 424,
+        "usage": 0
+    },
+    "Tranquill": {
+        "rank": 425,
+        "usage": 0
+    },
+    "Diglett-Alola": {
+        "rank": 426,
+        "usage": 0
+    },
+    "Nincada": {
+        "rank": 427,
+        "usage": 0
+    },
+    "Dewpider": {
+        "rank": 428,
+        "usage": 0
+    },
+    "Dreepy": {
+        "rank": 429,
+        "usage": 0
+    },
+    "Chinchou": {
+        "rank": 430,
+        "usage": 0
+    },
+    "Barboach": {
+        "rank": 431,
+        "usage": 0
+    },
+    "Pidove": {
+        "rank": 432,
+        "usage": 0
+    },
+    "Feebas": {
+        "rank": 433,
+        "usage": 0
+    },
+    "Cutiefly": {
+        "rank": 434,
+        "usage": 0
+    },
+    "Espurr": {
+        "rank": 435,
+        "usage": 0
+    },
+    "Sobble": {
+        "rank": 436,
+        "usage": 0
+    },
+    "Bergmite": {
+        "rank": 437,
+        "usage": 0
+    },
+    "Corphish": {
+        "rank": 438,
+        "usage": 0
+    },
+    "Tyrogue": {
+        "rank": 439,
+        "usage": 0
+    },
+    "Arrokuda": {
+        "rank": 440,
+        "usage": 0
+    },
+    "Croagunk": {
+        "rank": 441,
+        "usage": 0
+    },
+    "Minccino": {
+        "rank": 442,
+        "usage": 0
+    },
+    "Caterpie": {
+        "rank": 443,
+        "usage": 0
+    },
+    "Rookidee": {
+        "rank": 444,
+        "usage": 0
+    },
+    "Golett": {
+        "rank": 445,
+        "usage": 0
+    },
+    "Woobat": {
+        "rank": 446,
+        "usage": 0
+    },
+    "Vanillish": {
+        "rank": 447,
+        "usage": 0
+    },
+    "Honedge": {
+        "rank": 448,
+        "usage": 0
+    },
+    "Klink": {
+        "rank": 449,
+        "usage": 0
+    },
+    "Darumaka": {
+        "rank": 450,
+        "usage": 0
+    },
+    "Gothita": {
+        "rank": 451,
+        "usage": 0
+    },
+    "Binacle": {
+        "rank": 452,
+        "usage": 0
+    },
+    "Gothorita": {
+        "rank": 453,
+        "usage": 0
+    },
+    "Electrike": {
+        "rank": 454,
+        "usage": 0
+    },
+    "Hatenna": {
+        "rank": 455,
+        "usage": 0
+    },
+    "Vibrava": {
+        "rank": 456,
+        "usage": 0
+    },
+    "Lombre": {
+        "rank": 457,
+        "usage": 0
+    },
+    "Tympole": {
+        "rank": 458,
+        "usage": 0
+    },
+    "Remoraid": {
+        "rank": 459,
+        "usage": 0
+    },
+    "Sizzlipede": {
+        "rank": 460,
+        "usage": 0
+    },
+    "Spritzee": {
+        "rank": 461,
+        "usage": 0
+    },
+    "Rolycoly": {
+        "rank": 462,
+        "usage": 0
+    },
+    "Vanillite": {
+        "rank": 463,
+        "usage": 0
+    },
+    "Hoothoot": {
+        "rank": 464,
+        "usage": 0
+    },
+    "Karrablast": {
+        "rank": 465,
+        "usage": 0
+    },
+    "Goomy": {
+        "rank": 466,
+        "usage": 0
+    },
+    "Meowth-Alola": {
+        "rank": 467,
+        "usage": 0
+    },
+    "Helioptile": {
+        "rank": 468,
+        "usage": 0
+    },
+    "Lotad": {
+        "rank": 469,
+        "usage": 0
+    },
+    "Budew": {
+        "rank": 470,
+        "usage": 0
+    },
+    "Machop": {
+        "rank": 471,
+        "usage": 0
+    },
+    "Pumpkaboo": {
+        "rank": 472,
+        "usage": 0
+    },
+    "Pumpkaboo-Large": {
+        "rank": 473,
+        "usage": 0
+    },
+    "Cosmog": {
+        "rank": 474,
+        "usage": 0
+    },
+    "Munna": {
+        "rank": 475,
+        "usage": 0
+    }
+}
